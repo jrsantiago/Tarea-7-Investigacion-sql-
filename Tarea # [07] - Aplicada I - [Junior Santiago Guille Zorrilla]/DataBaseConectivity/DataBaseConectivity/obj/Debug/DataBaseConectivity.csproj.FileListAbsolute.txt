@@ -1,0 +1,9 @@
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea SQL\DataBaseConectivity\DataBaseConectivity\bin\Debug\DataBaseConectivity.exe.config
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea SQL\DataBaseConectivity\DataBaseConectivity\bin\Debug\DataBaseConectivity.exe
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea SQL\DataBaseConectivity\DataBaseConectivity\bin\Debug\DataBaseConectivity.pdb
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea SQL\DataBaseConectivity\DataBaseConectivity\obj\Debug\DataBaseConectivity.Properties.Resources.resources
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea SQL\DataBaseConectivity\DataBaseConectivity\obj\Debug\DataBaseConectivity.csproj.GenerateResource.Cache
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea SQL\DataBaseConectivity\DataBaseConectivity\obj\Debug\DataBaseConectivity.exe
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea SQL\DataBaseConectivity\DataBaseConectivity\obj\Debug\DataBaseConectivity.pdb
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea SQL\DataBaseConectivity\DataBaseConectivity\obj\Debug\DataBaseConectivity.Ventas.resources
+C:\Users\juniorsantiago\Desktop\Aplicada I\Tarea SQL\DataBaseConectivity\DataBaseConectivity\obj\Debug\DataBaseConectivity.csprojResolveAssemblyReference.cache
